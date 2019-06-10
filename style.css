@@ -1,0 +1,15 @@
+.title {
+    font-size: 75px;
+    font-family: VT323, monospace;
+    text-align: center;
+}
+#root {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  body {
+      background-color: green;
+  } 
+  img {
+      width: 85px;
+  }
